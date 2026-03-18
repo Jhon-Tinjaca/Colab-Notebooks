@@ -4,8 +4,8 @@
 Comparar el rendimiento de cuatro configuraciones de redes neuronales (optimización `adam` y `sgd`, con tasas de aprendizaje baja/alta) sobre un problema de clasificación sintético (`make_moons`).
 
 ## Técnica(s) comparada(s)
-- MLPClassifier (`sklearn.neural_network`) con solver `adam`
-- MLPClassifier con solver `sgd`
+- Optimizador `adam` con alta y baja tasa de aprendizaje
+- Optimizador `sgd`  con alta y baja tasa de aprendizaje
 
 ## Configuración base
 Entrenamiento en `make_moons` (1000 muestras, ruido=0.2) con arquitectura de capas ocultas `(100, 50)`, `relu`, y `max_iter=1000`.
