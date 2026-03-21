@@ -1,13 +1,13 @@
 # Comparación de Redes Neuronales con Activación Sigmoid y ReLU
 
 
-## 📋 Objetivo
+## Objetivo
 
 El propósito de esta actividad es comprender cómo las funciones de activación afectan el aprendizaje y el rendimiento de una red neuronal. Mediante la comparación directa de Sigmoid y ReLU, se busca entender las ventajas y desventajas de cada una en el contexto de problemas de clasificación binaria.
 
 ---
 
-## 🛠️ Qué se Implementó
+## Qué se Implementó
 
 - **Generación de datos sintéticos**: Creación de un conjunto de datos de dos clases para clasificación binaria.
 - **Arquitectura de red neuronal**: Una red simple con:
@@ -20,7 +20,7 @@ El propósito de esta actividad es comprender cómo las funciones de activación
 
 ---
 
-## 🔄 Activaciones Comparadas
+## Activaciones Comparadas
 
 Se compararon dos funciones de activación en la capa oculta:
 
@@ -34,14 +34,14 @@ Se compararon dos funciones de activación en la capa oculta:
 
 ---
 
-## 📊 Resultados Principales
+## Resultados Principales
 
 - Ambas redes logran clasificar correctamente los datos sintéticos, aunque con dinámicas de aprendizaje diferentes.
 - ReLU generalmente converge más rápido, mientras que Sigmoid puede producir límites de decisión más suaves y curvados.
 
 ---
 
-## 🚀 Cómo Ejecutar en Colab
+##  Cómo Ejecutar en Colab
 
 ### Opción 1: Cargar desde GitHub
 1. Abre [Google Colab](https://colab.research.google.com/)
