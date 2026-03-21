@@ -19,10 +19,19 @@ Se ejecutaron múltiples iteraciones con distintos conjuntos de entradas y pesos
 
 El perceptrón fue capaz de clasificar correctamente los ejemplos probados y mostró la influencia de los pesos y el sesgo sobre la salida.
 
-## Cómo ejecutar
+## Cómo Ejecutar en Colab
 
-1. Abrir el cuaderno `Practica 2.ipynb` en Google Colab o en el entorno local.
-2. Ejecutar las celdas en orden, comenzando por la definición de la neurona y la función de activación.
-3. Modificar datos de entrada, pesos y sesgo según sea necesario y volver a ejecutar para observar resultados.
+### Opción 1: Cargar desde GitHub
+1. Abre [Google Colab](https://colab.research.google.com/)
+2. Selecciona **"Archivo"** → **"Abrir cuaderno"** → **"GitHub"**
+3. Pega la URL del repositorio que contiene este notebook
 
-> **Nota:** La documentación de resultados y las conclusiones técnicas se encuentran en el cuaderno, al final de la práctica.
+### Opción 2: Cargar manualmente
+1. Descarga el archivo `Practica 2.ipynb` de esta carpeta
+2. Abre [Google Colab](https://colab.research.google.com/)
+3. Selecciona **"Archivo"** → **"Subir cuaderno"**
+4. Elige el archivo descargado
+
+### Requisitos
+- NumPy
+
