@@ -1,7 +1,7 @@
 # Informe_Texto_en_Embeddings
 
 ## Integrante:
-Jhon Eduard Tinjaca Cruz - jetinjaca@alqueria.com.co.
+Jhon Eduard Tinjaca Cruz - jetinjaca@ucundinamarca.edu.co
 
 # Embeddings para Procesamiento de Lenguaje Natural
 
